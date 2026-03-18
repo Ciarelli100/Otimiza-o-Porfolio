@@ -31,6 +31,7 @@ internacional no período 2011–2025.
 | Markowitz | 10,7% | 2,84% | 358,1% | 119,2% |
 
 ## Estrutura do Repositório
+```
 portfolio-otimizacao/
 ├── data/
 │   └── base_benchmarks.xlsx   # Dados históricos dos benchmarks
@@ -38,6 +39,7 @@ portfolio-otimizacao/
 │   └── projeto_final_estrategia.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ## Como Reproduzir
 # 1. Clone o repositório
