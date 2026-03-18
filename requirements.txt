@@ -1,0 +1,10 @@
+pandas
+numpy
+deap
+scipy
+matplotlib
+seaborn
+plotly
+openpyxl
+jupyter
+jinja2
