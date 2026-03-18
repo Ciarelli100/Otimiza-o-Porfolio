@@ -60,5 +60,5 @@ jupyter notebook notebooks/projeto_final_estrategia.ipynb
 - Plotly / Matplotlib / Seaborn
 
 ## Autor
-Seu Nome — [LinkedIn] — [e-mail institucional]
+Rafael Ciarelli — https://www.linkedin.com/in/rafael-ciarelli-71319248/ — rafaciarelli@hotmail.com
 Orientador: Prof. Nome do Orientador
