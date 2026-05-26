@@ -1,7 +1,7 @@
 # Otimização de Carteiras: Algoritmo Genético vs. Markowitz
 
 #### Aluno: [Rafael Ciarelli](https://github.com/Ciarelli100)
-#### Orientadora: [Carolina Abreu]
+#### Orientadora: Carolina Abreu
 
 ---
 
@@ -114,7 +114,7 @@ As limitações do estudo incluem o uso de dados históricos sem garantia de rep
 
 ---
 
-Matrícula: [232100412]
+Matrícula: 232100412
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
